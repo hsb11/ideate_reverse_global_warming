@@ -1,0 +1,21 @@
+promptl='Enter length in ft: ';
+promptb='Enter breadth in ft: ';
+prompth='Enter height in ft: ';
+l=input(promptl);
+b=input(promptb);
+h=input(prompth);
+volume=l*b*h*0.0283168;
+c=1005;
+m=1.225*volume;
+prompt='Change in temperature: ';
+deltat=input(prompt);
+q=m*c*deltat;
+prompt='Time in seconds: ';
+t=input(prompt);
+promptp='Enter rated power consumption in Watts: ';
+pinput=input(promptp);
+pips=pinput/3600;
+p=pips*t;
+cp=q/t;
+cop1=q/(t*p);
+
