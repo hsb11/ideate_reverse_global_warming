@@ -1,4 +1,4 @@
 # ac_analysis
-Report contains the explanation of my work. 
-App folder conatins a MATLAB app. Will upload individual codes in sometime.
+All are Matlab codes. Report contains the explanation of my work. 
+App folder conatins a MATLAB app. 
 I had submitted this report in my college competition.
