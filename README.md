@@ -1,4 +1,6 @@
-# ac_analysis
-All are Matlab codes. Report contains the explanation of my work. 
-App folder conatins a MATLAB app. 
-I had submitted this report in my college competition. All AC's values taken are imaginary.
+Ideate competition, K.J. Somaiya College of Engineering, 2018
+Problem Statement: Participants are expected to come up with innovative engineering solutions to help the deep decarbonisation of our society from all possible pollution sources (cooking, air conditioning, etc.) to reverse the global warming.
+
+Idea/Solution: Real time analysis of Air-Conditioners
+
+Please read the report for more information.
